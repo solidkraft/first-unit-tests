@@ -7,7 +7,7 @@ already been written for you, and implement code to make them pass.
 
 ## Getting Started
 
-Clone the repository: `git clone git@github.com:solidkraft/first-unit-tests.git`  
+Clone the repository: `git clone https://github.com/solidkraft/first-unit-tests.git`  
 CD into the directory: `cd first-unit-tests`  
 Install dependencies: `npm install`  
 Run the tests: `npm test`  
